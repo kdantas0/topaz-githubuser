@@ -1,0 +1,14 @@
+Nome: octocat
+Perfil: https://github.com/octocat
+Número de repositórios publicos: 8
+Número de seguidores: 13556
+Número de usuários seguidos: 9
+Repositórios:
+boysenberry-repo-1: https://github.com/octocat/boysenberry-repo-1
+git-consortium: https://github.com/octocat/git-consortium
+hello-worId: https://github.com/octocat/hello-worId
+Hello-World: https://github.com/octocat/Hello-World
+linguist: https://github.com/octocat/linguist
+octocat.github.io: https://github.com/octocat/octocat.github.io
+Spoon-Knife: https://github.com/octocat/Spoon-Knife
+test-repo1: https://github.com/octocat/test-repo1
